@@ -40,4 +40,4 @@ MIT
    [D3.js]: <https://d3js.org/>
    [Pandas]: <http://pandas.pydata.org/>
    [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [Browsing-History-Analyzerr]: <https://github.com/Dineshkarthik/browsing_history_viz>
+   [Browsing-History-Analyzer]: <https://github.com/Dineshkarthik/browsing_history_viz>
