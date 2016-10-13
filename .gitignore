@@ -1,0 +1,10 @@
+# IPython Notebook checkpoints
+.ipynb_checkpoints
+*.ipynb
+
+#Ignore DB
+*.sqlite3
+
+#Ignore script generated files
+*.html
+*.json
