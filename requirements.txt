@@ -1,2 +1,2 @@
-pandas==0.16.2
-tld==0.7.6
+pandas==0.18.1
+tldextract==2.0.1
