@@ -5,6 +5,7 @@ Browsing History Analyzer is a simple analytics and visualization Python app, da
 ##### All you need to do:
   - Run the python script
   - View your analysed browsing history
+  
 ### Tech
 
 Browsing History Analyzer uses a number of open source projects to work properly:
