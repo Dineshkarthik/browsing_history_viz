@@ -11,7 +11,7 @@ import json
 
 option = 0
 while not int(option) in range(1, 3):
-    option = int(input("Select your broswer:\n1.Chrome\n2.Firefox\n"))
+    option = int(input("Select your browser:\n1.Chrome\n2.Firefox\n"))
 
 # Chrome
 # On Mac: ~/Library/Application\ Support/Google/Chrome/Default/History
